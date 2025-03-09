@@ -1,4 +1,4 @@
-import { User } from '@/types';
+import { User } from '@/types/index';
 
 // Get user from local storage
 export const getUser = (userId: number): User | null => {
