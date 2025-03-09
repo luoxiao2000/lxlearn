@@ -1,0 +1,602 @@
+[
+  {
+    "courseId": 8617,
+    "courseTitle": "西附U+数学公益课（十九）",
+    "videoUrl": "https://cdn-uyx.eduzhida.com/2023/01/08/1d7424a6-2e5c-4241-8b8b-7295dd7b94c9.MP4"
+  },
+  {
+    "courseId": 8726,
+    "courseTitle": "西附U+英语公益课（十九）",
+    "videoUrl": "https://cdn-uyx.eduzhida.com/2023/01/28/2946f684-c206-4e6d-ac23-3135f96182d0.MOV"
+  },
+  {
+    "courseId": 8733,
+    "courseTitle": "西附U+语文公益课（十九）",
+    "videoUrl": "https://cdn-uyx.eduzhida.com/2023/01/28/2bc67d5d-ac3f-496c-85cc-66f87eab4c7c.mp4"
+  },
+  {
+    "courseId": 12223,
+    "courseTitle": "西附 U+物理公益课（十九）",
+    "videoUrl": "https://cdn-uyx.eduzhida.com/2023/06/23/988597a9-1696-40c0-9238-e263ffe57e1d.MP4"
+  },
+  {
+    "courseId": 12224,
+    "courseTitle": "西附 U+化学公益课（十九）",
+    "videoUrl": "https://cdn-uyx.eduzhida.com/2023/06/23/6bac815b-8d9c-461b-8aa8-fd7966ce7b57.mp4"
+  },
+  {
+    "courseId": 129154,
+    "courseTitle": "西附U+思维公益课 数学（十一）",
+    "videoUrl": "https://cdn-uyx.eduzhida.com/2025/02/28/f34cb139-a0c6-4937-b677-3abd7980cd6a.mp4"
+  },
+  {
+    "courseId": 129155,
+    "courseTitle": "西附U+思维公益课 物理（十三）",
+    "videoUrl": "https://cdn-uyx.eduzhida.com/2025/03/03/cb97a6df-c87d-41a4-aaa8-a8ea5c9e1f7c.mp4"
+  },
+  {
+    "courseId": 8614,
+    "courseTitle": "西附U+数学公益课（十八）",
+    "videoUrl": "https://cdn-uyx.eduzhida.com/2023/01/08/4486f8a8-9298-432d-99a0-5cea3a5dbb0a.mp4"
+  },
+  {
+    "courseId": 8731,
+    "courseTitle": "西附U+英语公益课（十八）",
+    "videoUrl": "https://cdn-uyx.eduzhida.com/2023/01/28/f1b5acc8-8b79-450a-9b1e-ed9a92ec3374.MOV"
+  },
+  {
+    "courseId": 8732,
+    "courseTitle": "西附U+语文公益课（十八） ",
+    "videoUrl": "https://cdn-uyx.eduzhida.com/2023/01/28/bfeb3fed-38ab-4648-99bf-ed1da5a32665.mp4"
+  },
+  {
+    "courseId": 12073,
+    "courseTitle": "西附U+化学公益课（十八）",
+    "videoUrl": "https://cdn-uyx.eduzhida.com/2023/06/16/b54d17bf-8389-48f3-be25-3a0cc984710f.mp4"
+  },
+  {
+    "courseId": 12074,
+    "courseTitle": "西附U+物理公益课（十八）",
+    "videoUrl": "https://cdn-uyx.eduzhida.com/2023/06/16/6cd29908-41aa-4afd-b635-0b936c716126.MP4"
+  },
+  {
+    "courseId": 8685,
+    "courseTitle": "西附U+英语公益课（十七）",
+    "videoUrl": "https://cdn-uyx.eduzhida.com/2023/01/11/6369648e-b8d9-4b7a-8512-0264550257b6.MOV"
+  },
+  {
+    "courseId": 8715,
+    "courseTitle": "西附U+语文公益课（十七）",
+    "videoUrl": "https://cdn-uyx.eduzhida.com/2023/01/13/55ae8a3c-4486-49fb-add8-393d8051871d.mp4"
+  },
+  {
+    "courseId": 8613,
+    "courseTitle": "西附U+数学公益课（十七）",
+    "videoUrl": "https://cdn-uyx.eduzhida.com/2023/01/08/2efaa50b-440e-43b0-8c58-edb380f91a73.mp4"
+  },
+  {
+    "courseId": 12015,
+    "courseTitle": "西附U+物理公益课（十七）",
+    "videoUrl": "https://cdn-uyx.eduzhida.com/2023/06/08/f6ef491a-ff78-43e5-8bd2-00c8aef22f84.MP4"
+  },
+  {
+    "courseId": 12016,
+    "courseTitle": "西附U+化学公益课（十七）",
+    "videoUrl": "https://cdn-uyx.eduzhida.com/2023/06/08/d920bf01-f7dd-47bf-904a-4bef547ce00a.mp4"
+  },
+  {
+    "courseId": 8612,
+    "courseTitle": "西附U+数学公益课（十六）",
+    "videoUrl": "https://cdn-uyx.eduzhida.com/2023/01/08/c9b0d6ee-8bdb-475e-a0a2-db7b7db336c0.mp4"
+  },
+  {
+    "courseId": 8625,
+    "courseTitle": "西附U+语文公益课（十六）",
+    "videoUrl": "https://cdn-uyx.eduzhida.com/2023/01/08/81ee132b-0f58-406f-b127-b9f45b2c473b.mp4"
+  },
+  {
+    "courseId": 8680,
+    "courseTitle": "西附U+英语公益课（十六）",
+    "videoUrl": "https://cdn-uyx.eduzhida.com/2023/01/11/5b8c5de7-3dca-49db-ae6f-baaa7c3b0cbf.MOV"
+  },
+  {
+    "courseId": 11884,
+    "courseTitle": "西附U+物理公益课（十六）",
+    "videoUrl": "https://cdn-uyx.eduzhida.com/2023/06/01/f9e336c8-cbec-4238-91b6-3f245ab8bb3d.MP4"
+  },
+  {
+    "courseId": 11898,
+    "courseTitle": "西附U+化学公益课（十六）",
+    "videoUrl": "https://cdn-uyx.eduzhida.com/2023/06/02/68d2296f-0c33-4e53-985c-18f0b448cb5c.mp4"
+  },
+  {
+    "courseId": 8616,
+    "courseTitle": "西附U+数学公益课（十五）",
+    "videoUrl": "https://cdn-uyx.eduzhida.com/2023/01/08/4590ee60-a33a-42c3-8ee1-e4d9ab1a64fb.mp4"
+  },
+  {
+    "courseId": 8624,
+    "courseTitle": "西附U+语文公益课（十五）",
+    "videoUrl": "https://cdn-uyx.eduzhida.com/2023/01/08/f5e7031d-4f3c-4e34-bfc4-d2b47e781615.mp4"
+  },
+  {
+    "courseId": 8679,
+    "courseTitle": "西附U+英语公益课（十五）",
+    "videoUrl": "https://cdn-uyx.eduzhida.com/2023/01/11/5d727d25-3bd5-4eb7-814e-a9a863000bc7.MOV"
+  },
+  {
+    "courseId": 11652,
+    "courseTitle": "西附U+化学公益课（十五）",
+    "videoUrl": "https://cdn-uyx.eduzhida.com/2023/05/25/292c250a-d086-4f7d-b6e6-0db1fc95ddbf.mp4"
+  },
+  {
+    "courseId": 11663,
+    "courseTitle": "西附U+物理公益课（十五）",
+    "videoUrl": "https://cdn-uyx.eduzhida.com/2023/05/26/132421cd-fe8d-429c-8280-77dd5b14ac44.MP4"
+  },
+  {
+    "courseId": 8609,
+    "courseTitle": "西附U+数学公益课（十四）上",
+    "videoUrl": "https://cdn-uyx.eduzhida.com/2023/01/08/37e5fb87-f3bb-4372-9532-567838bd1344.mp4"
+  },
+  {
+    "courseId": 8623,
+    "courseTitle": "西附U+语文公益课（十四）",
+    "videoUrl": "https://cdn-uyx.eduzhida.com/2023/01/08/04333f27-1183-4703-a316-f6f90a5eb7dd.mp4"
+  },
+  {
+    "courseId": 8678,
+    "courseTitle": "西附U+英语公益课（十四）",
+    "videoUrl": "https://cdn-uyx.eduzhida.com/2023/01/11/4a13ef24-cd83-46de-9f89-f3cbfa807d5e.mov"
+  },
+  {
+    "courseId": 11475,
+    "courseTitle": "西附U+化学公益课（十四）",
+    "videoUrl": "https://cdn-uyx.eduzhida.com/2023/05/18/ea6f3dcf-75c8-4b08-83d9-4879df9da476.mp4"
+  },
+  {
+    "courseId": 11476,
+    "courseTitle": "西附U+物理公益课（十四）",
+    "videoUrl": "https://cdn-uyx.eduzhida.com/2023/05/18/063c5f3e-7b08-4868-8f29-df3127875b34.MP4"
+  },
+  {
+    "courseId": 8611,
+    "courseTitle": "西附U+数学公益课（十四）下",
+    "videoUrl": "https://cdn-uyx.eduzhida.com/2023/01/08/593bb3b4-7c30-42ff-abf5-1922ec0c1e5c.mp4"
+  },
+  {
+    "courseId": 8622,
+    "courseTitle": "西附U+语文公益课（十三）",
+    "videoUrl": "https://cdn-uyx.eduzhida.com/2023/01/08/923e5e6b-c8ed-4fec-847a-d8b06e7cec34.mp4"
+  },
+  {
+    "courseId": 8626,
+    "courseTitle": "西附U+英语公益课（十三）",
+    "videoUrl": "https://cdn-uyx.eduzhida.com/2023/01/08/2813a5e1-cf3c-498b-9c07-2e0b4ce7c3e8.MOV"
+  },
+  {
+    "courseId": 11255,
+    "courseTitle": "西附U+物理公益课（十三）",
+    "videoUrl": "https://cdn-uyx.eduzhida.com/2023/05/11/51dd9c3e-1bec-49b8-9904-8b1c23767f4b.mp4"
+  },
+  {
+    "courseId": 11256,
+    "courseTitle": "西附U+化学公益课（十三）",
+    "videoUrl": "https://cdn-uyx.eduzhida.com/2023/05/11/6c116d9e-afb4-4fee-ba2e-324780a7ebe7.mp4"
+  },
+  {
+    "courseId": 8610,
+    "courseTitle": "西附U+数学公益课（十三）",
+    "videoUrl": "https://cdn-uyx.eduzhida.com/2023/01/08/fdd4cf44-d196-4a61-88c9-5bb013bb614a.MP4"
+  },
+  {
+    "courseId": 11060,
+    "courseTitle": "西附U+化学公益课（十二）",
+    "videoUrl": "https://cdn-uyx.eduzhida.com/2023/05/05/07ececbc-2134-4793-a487-f4c3dc861fb2.mp4"
+  },
+  {
+    "courseId": 11059,
+    "courseTitle": "西附U+物理公益课（十二）",
+    "videoUrl": "https://cdn-uyx.eduzhida.com/2023/05/05/53fe7c95-5625-416d-b845-b271bfc7fc1e.mp4"
+  },
+  {
+    "courseId": 8627,
+    "courseTitle": "西附U+英语公益课（十二）",
+    "videoUrl": "https://cdn-uyx.eduzhida.com/2023/01/08/b937e2bf-f1b9-4e21-8e06-460cf8313525.MOV"
+  },
+  {
+    "courseId": 8608,
+    "courseTitle": "西附U+数学公益课（十二）",
+    "videoUrl": "https://cdn-uyx.eduzhida.com/2023/01/08/8c6691cd-b2d2-4b45-b5c5-03e167726c96.mp4"
+  },
+  {
+    "courseId": 8621,
+    "courseTitle": "西附U+语文公益课（十二）",
+    "videoUrl": "https://cdn-uyx.eduzhida.com/2023/01/08/d5137087-4bf3-4eb5-9c23-ddbfc4cd3189.mp4"
+  },
+  {
+    "courseId": 8424,
+    "courseTitle": "西附U+数学公益课（十一）",
+    "videoUrl": "https://cdn-uyx.eduzhida.com/2022/12/31/f1e40336-5f49-4c63-ad86-8ed14d760ec5.MP4"
+  },
+  {
+    "courseId": 8425,
+    "courseTitle": "西附U+英语公益课（十一）",
+    "videoUrl": "https://cdn-uyx.eduzhida.com/2022/12/31/744ed21e-7cc9-4397-a42a-ada86b327a83.mp4"
+  },
+  {
+    "courseId": 8426,
+    "courseTitle": "西附U+语文公益课（十一）",
+    "videoUrl": "https://cdn-uyx.eduzhida.com/2022/12/31/344f2e84-57af-4ed4-ba27-91b9afff8b62.mp4"
+  },
+  {
+    "courseId": 10991,
+    "courseTitle": "西附U+物理公益课（十一）",
+    "videoUrl": "https://cdn-uyx.eduzhida.com/2023/04/28/72de76d3-0e91-4c48-b2dd-21cf054e42b0.mp4"
+  },
+  {
+    "courseId": 10992,
+    "courseTitle": "西附U+化学公益课（十一）",
+    "videoUrl": "https://cdn-uyx.eduzhida.com/2023/04/28/f5446e14-dc3a-46e1-98e5-e54751984187.mp4"
+  },
+  {
+    "courseId": 10740,
+    "courseTitle": "西附U+物理公益课（十）",
+    "videoUrl": "https://cdn-uyx.eduzhida.com/2023/04/20/7405184c-1de0-4969-9831-5e01f42b8212.mp4"
+  },
+  {
+    "courseId": 10739,
+    "courseTitle": "西附U+化学公益课（十）",
+    "videoUrl": "https://cdn-uyx.eduzhida.com/2023/04/20/e07cdb07-bc71-4377-9209-95b6ed6634c9.mp4"
+  },
+  {
+    "courseId": 8208,
+    "courseTitle": "西附U+语文公益课（十）",
+    "videoUrl": "https://cdn-uyx.eduzhida.com/2022/12/23/770594e0-3533-45e8-831b-1ed88d6850c9.mp4"
+  },
+  {
+    "courseId": 8207,
+    "courseTitle": "西附U+英语公益课（十）",
+    "videoUrl": "https://cdn-uyx.eduzhida.com/2022/12/23/952b2ab3-6610-435c-9b40-1214d66b3f70.mp4"
+  },
+  {
+    "courseId": 8206,
+    "courseTitle": "西附U+数学公益课（十）",
+    "videoUrl": "https://cdn-uyx.eduzhida.com/2022/12/23/3863d787-6e1a-4636-ad3b-bea47115034a.mp4"
+  },
+  {
+    "courseId": 7969,
+    "courseTitle": "西附U+英语公益课（九）",
+    "videoUrl": "https://cdn-uyx.eduzhida.com/2022/12/20/126fa0d4-2e7f-43b8-a015-dfff8eb3cee2.mp4"
+  },
+  {
+    "courseId": 10564,
+    "courseTitle": "西附U+物理公益课（九）",
+    "videoUrl": "https://cdn-uyx.eduzhida.com/2023/04/14/098a2ebf-7fb6-4bba-82f0-c01bb8bf57d6.mp4"
+  },
+  {
+    "courseId": 10531,
+    "courseTitle": "西附U+化学公益课（九）",
+    "videoUrl": "https://cdn-uyx.eduzhida.com/2023/04/13/01028d3f-4145-427f-85c8-81b49d761c69.mp4"
+  },
+  {
+    "courseId": 7970,
+    "courseTitle": "西附U+数学公益课（九）",
+    "videoUrl": "https://cdn-uyx.eduzhida.com/2022/12/16/69e5f32b-e7d9-4c8f-8fc2-41ecca036f9b.MP4"
+  },
+  {
+    "courseId": 7971,
+    "courseTitle": "西附U+语文公益课（九）",
+    "videoUrl": "https://cdn-uyx.eduzhida.com/2022/12/16/4548599e-b6ff-49e1-b8ea-5f94a40ce753.mp4"
+  },
+  {
+    "courseId": 10360,
+    "courseTitle": "西附U+化学公益课（八）",
+    "videoUrl": "https://cdn-uyx.eduzhida.com/2023/04/07/ee87845e-caee-4e1c-99bd-1e22ed20c0ad.mp4"
+  },
+  {
+    "courseId": 7734,
+    "courseTitle": "西附U+英语公益课（八）",
+    "videoUrl": "https://cdn-uyx.eduzhida.com/2022/12/09/c97ee8cd-25e0-4940-b6eb-ca1daee7092c.mp4"
+  },
+  {
+    "courseId": 7735,
+    "courseTitle": "西附U+数学公益课（八）",
+    "videoUrl": "https://cdn-uyx.eduzhida.com/2022/12/09/a56101b6-6808-4c70-b025-c589ecebab60.MP4"
+  },
+  {
+    "courseId": 7736,
+    "courseTitle": "西附U+语文公益课（八）",
+    "videoUrl": "https://cdn-uyx.eduzhida.com/2022/12/09/fc0bd140-efdf-4b23-82b0-2cb49be77ef1.mp4"
+  },
+  {
+    "courseId": 10359,
+    "courseTitle": "西附U+物理公益课（八）",
+    "videoUrl": "https://cdn-uyx.eduzhida.com/2023/04/07/74848b60-fe2a-41e2-b9d3-ac96a5b9096a.mp4"
+  },
+  {
+    "courseId": 7473,
+    "courseTitle": "西附U+英语公益课（七）",
+    "videoUrl": "https://cdn-uyx.eduzhida.com/2022/12/02/0ca560d1-c8e9-4aa3-aab2-8feaa8b627bd.mp4"
+  },
+  {
+    "courseId": 7474,
+    "courseTitle": "西附U+数学公益课（七）",
+    "videoUrl": "https://cdn-uyx.eduzhida.com/2022/12/02/3a22a5b8-f039-4881-80ea-d4e1e0877c2c.mp4"
+  },
+  {
+    "courseId": 7475,
+    "courseTitle": "西附U+语文公益课（七）",
+    "videoUrl": "https://cdn-uyx.eduzhida.com/2022/12/02/a1310913-d9c7-43b6-8a76-2c68ac12e298.mp4"
+  },
+  {
+    "courseId": 10341,
+    "courseTitle": "西附U+物理公益课（七）",
+    "videoUrl": "https://cdn-uyx.eduzhida.com/2023/03/31/831b54b3-b282-4cb6-a877-f49f6503d827.mp4"
+  },
+  {
+    "courseId": 10342,
+    "courseTitle": "西附U+化学公益课（七）",
+    "videoUrl": "https://cdn-uyx.eduzhida.com/2023/03/31/018c0473-066f-4597-a155-349464f8df62.mp4"
+  },
+  {
+    "courseId": 7200,
+    "courseTitle": "西附U+英语公益课（六）",
+    "videoUrl": "https://cdn-uyx.eduzhida.com/2022/11/25/5b74fd0e-b1cc-45a7-ba88-bf2fc375297d.mp4"
+  },
+  {
+    "courseId": 10153,
+    "courseTitle": "西附U+化学公益课（六）",
+    "videoUrl": "https://cdn-uyx.eduzhida.com/2023/03/24/63baeae5-93e2-411c-8be4-f22a5de1f8ef.mp4"
+  },
+  {
+    "courseId": 10150,
+    "courseTitle": "西附U+物理公益课（六）",
+    "videoUrl": "https://cdn-uyx.eduzhida.com/2023/03/24/685d729b-d5a2-491f-a956-c27c26524cb6.mp4"
+  },
+  {
+    "courseId": 7198,
+    "courseTitle": "西附U+语文公益课（六）",
+    "videoUrl": "https://cdn-uyx.eduzhida.com/2022/11/25/62ea6ff4-b140-48b1-9e35-7c8ed0855687.mp4"
+  },
+  {
+    "courseId": 7197,
+    "courseTitle": "西附U+数学公益课（六）",
+    "videoUrl": "https://cdn-uyx.eduzhida.com/2022/11/25/5ed43176-3522-4e84-8285-0992e14dcd2a.mp4"
+  },
+  {
+    "courseId": 2323,
+    "courseTitle": "西附U+语文公益课（五）",
+    "videoUrl": "https://cdn-uyx.eduzhida.com/2022/01/21/8a015b09-9663-43cc-946e-ebd379d19761.mp4"
+  },
+  {
+    "courseId": 6911,
+    "courseTitle": "西附U+数学公益课（五）",
+    "videoUrl": "https://cdn-uyx.eduzhida.com/2023/02/15/2dfd9299-6a6a-4908-bbb5-859eaca4f184.mp4"
+  },
+  {
+    "courseId": 6912,
+    "courseTitle": "西附U+英语公益课（五）",
+    "videoUrl": "https://cdn-uyx.eduzhida.com/2022/11/18/57efd7cd-a893-463f-9656-8238d049dcae.mp4"
+  },
+  {
+    "courseId": 9930,
+    "courseTitle": "西附U+物理公益课（五）",
+    "videoUrl": "https://cdn-uyx.eduzhida.com/2023/03/17/3b91968a-5674-4a70-b80b-950559cd2f8c.mp4"
+  },
+  {
+    "courseId": 9933,
+    "courseTitle": "西附U+化学公益课（五）",
+    "videoUrl": "https://cdn-uyx.eduzhida.com/2023/03/17/00740355-435c-4c58-9e74-8d40fdd3a3c6.mp4"
+  },
+  {
+    "courseId": 2321,
+    "courseTitle": "西附U+语文公益课（四）",
+    "videoUrl": "https://cdn-uyx.eduzhida.com/2022/01/21/3c5ff291-e6cf-4d6c-88a9-11d814641028.mp4"
+  },
+  {
+    "courseId": 6644,
+    "courseTitle": "西附U+数学公益课（四）",
+    "videoUrl": "https://cdn-uyx.eduzhida.com/2022/11/11/7a007b1f-f1d2-4b1f-9833-d03461cb0f78.MP4"
+  },
+  {
+    "courseId": 6645,
+    "courseTitle": "西附U+英语公益课（四）",
+    "videoUrl": "https://cdn-uyx.eduzhida.com/2022/11/11/7f45fe9d-d6bf-4904-9d1d-304d493ed037.mp4"
+  },
+  {
+    "courseId": 9704,
+    "courseTitle": "西附U+化学公益课（四）",
+    "videoUrl": "https://cdn-uyx.eduzhida.com/2023/03/11/973cc4f8-cf86-4983-92f7-7bcdb6ea5552.mp4"
+  },
+  {
+    "courseId": 9705,
+    "courseTitle": "西附U+物理公益课（四）",
+    "videoUrl": "https://cdn-uyx.eduzhida.com/2023/03/10/ac116eb1-5967-416c-a7dd-0a9c6cb9b003.mp4"
+  },
+  {
+    "courseId": 127664,
+    "courseTitle": "西附U+思维公益课 数学（十）",
+    "videoUrl": "https://cdn-uyx.eduzhida.com/2024/12/20/86edbe6d-60ae-4d52-94a3-1af4c1f6aab6.mp4"
+  },
+  {
+    "courseId": 127665,
+    "courseTitle": "西附U+思维公益课 物理（十二）",
+    "videoUrl": "https://cdn-uyx.eduzhida.com/2024/12/20/7108e8c5-c3ea-473b-8b52-897fc541bb14.mp4"
+  },
+  {
+    "courseId": 127613,
+    "courseTitle": "西附U+思维公益课 数学（九）",
+    "videoUrl": "https://cdn-uyx.eduzhida.com/2024/12/19/760562dc-5054-4ba2-b9d0-50de4988b290.mp4"
+  },
+  {
+    "courseId": 127614,
+    "courseTitle": "西附U+思维公益课 物理（十一）",
+    "videoUrl": "https://cdn-uyx.eduzhida.com/2024/12/19/2868bd25-8f9b-4fff-aab1-aa9e4fa63a91.mp4"
+  },
+  {
+    "courseId": 127564,
+    "courseTitle": "西附U+思维公益课 物理（十）",
+    "videoUrl": "https://cdn-uyx.eduzhida.com/2024/12/18/ad1491b2-81c2-4fd5-bda9-61269537fd5e.mp4"
+  },
+  {
+    "courseId": 127565,
+    "courseTitle": "西附U+思维公益课 数学（八）",
+    "videoUrl": "https://cdn-uyx.eduzhida.com/2024/12/18/c00493d2-ec86-441a-962e-99884755f10a.mp4"
+  },
+  {
+    "courseId": 127466,
+    "courseTitle": "西附U+思维公益课 数学（七）",
+    "videoUrl": "https://cdn-uyx.eduzhida.com/2024/12/17/81338497-9e86-4820-86c3-60ae6455fbdc.mp4"
+  },
+  {
+    "courseId": 127467,
+    "courseTitle": "西附U+思维公益课 物理（九）",
+    "videoUrl": "https://cdn-uyx.eduzhida.com/2024/12/18/de06d367-0744-46ca-9941-4b78bcdc3812.mp4"
+  },
+  {
+    "courseId": 127411,
+    "courseTitle": "西附U+思维公益课 物理（八）",
+    "videoUrl": "https://cdn-uyx.eduzhida.com/2024/12/16/7e72dbbf-6000-4e68-95fe-e8b12e7d21cf.mp4"
+  },
+  {
+    "courseId": 127426,
+    "courseTitle": "西附U+思维公益课 数学（六）",
+    "videoUrl": "https://cdn-uyx.eduzhida.com/2024/12/16/9010aca5-b324-45d9-b6e2-73c82e586606.mp4"
+  },
+  {
+    "courseId": 127408,
+    "courseTitle": "西附U+思维公益课 物理（七）",
+    "videoUrl": "https://cdn-uyx.eduzhida.com/2024/12/15/18bd1d46-08aa-43af-8eb8-9b5bda07250f.mp4"
+  },
+  {
+    "courseId": 9474,
+    "courseTitle": "西附U+物理公益课（三）",
+    "videoUrl": "https://cdn-uyx.eduzhida.com/2023/03/03/9c5bebe5-7915-42d5-9789-f958bc074956.mp4"
+  },
+  {
+    "courseId": 6385,
+    "courseTitle": "西附U+英语公益课（三）",
+    "videoUrl": "https://cdn-uyx.eduzhida.com/2022/11/04/9eba8e6e-66fe-45e2-9230-42fca17be275.mp4"
+  },
+  {
+    "courseId": 6384,
+    "courseTitle": "西附U+数学公益课（三）",
+    "videoUrl": "https://cdn-uyx.eduzhida.com/2022/11/04/58e255b3-6a69-490d-8009-dcb42293c92b.mp4"
+  },
+  {
+    "courseId": 2320,
+    "courseTitle": "西附U+语文公益课（三）",
+    "videoUrl": "https://cdn-uyx.eduzhida.com/2022/01/21/c75a38c1-9fd6-4849-a4f3-a85d11e26663.mp4"
+  },
+  {
+    "courseId": 9476,
+    "courseTitle": "西附U+化学公益课（三）",
+    "videoUrl": "https://cdn-uyx.eduzhida.com/2023/03/03/a43d5cee-025e-449c-b224-d1b25f5c88ff.mp4"
+  },
+  {
+    "courseId": 127367,
+    "courseTitle": "西附U+思维公益课 物理（六）",
+    "videoUrl": "https://cdn-uyx.eduzhida.com/2024/12/13/b64d7834-cbac-49ea-955e-161352fda870.mp4"
+  },
+  {
+    "courseId": 127369,
+    "courseTitle": "西附U+思维公益课 数学（五）",
+    "videoUrl": "https://cdn-uyx.eduzhida.com/2024/12/13/842d54a8-b117-422f-a0fb-0c3955aa7e75.mp4"
+  },
+  {
+    "courseId": 127313,
+    "courseTitle": "西附U+思维公益课 数学（四）",
+    "videoUrl": "https://cdn-uyx.eduzhida.com/2024/12/12/0264e1e9-b369-4a51-94c1-1df9ba48bc5d.mp4"
+  },
+  {
+    "courseId": 127363,
+    "courseTitle": "西附U+思维公益课 物理（五）",
+    "videoUrl": "https://cdn-uyx.eduzhida.com/2024/12/13/794eb581-13e5-4b75-bd49-7abb5a0c63ce.mp4"
+  },
+  {
+    "courseId": 127260,
+    "courseTitle": "西附U+思维公益课 物理（四）",
+    "videoUrl": "https://cdn-uyx.eduzhida.com/2024/12/11/d5c66dd0-0f88-4120-8e05-e9662f3a3cfe.mp4"
+  },
+  {
+    "courseId": 127282,
+    "courseTitle": "西附U+思维公益课 数学（三）",
+    "videoUrl": "https://cdn-uyx.eduzhida.com/2024/12/11/9084584a-e2f5-41d1-a6f5-76d35a56712d.mp4"
+  },
+  {
+    "courseId": 127195,
+    "courseTitle": "西附U+思维公益课 数学（二）",
+    "videoUrl": "https://cdn-uyx.eduzhida.com/2024/12/09/6f45ae42-3bd2-4cc5-a30f-dc3825b84d5e.mp4"
+  },
+  {
+    "courseId": 127194,
+    "courseTitle": "西附U+思维公益课 物理（三）",
+    "videoUrl": "https://cdn-uyx.eduzhida.com/2024/12/10/4fe73d9c-c93a-44cb-8e71-9807d362ac55.mp4"
+  },
+  {
+    "courseId": 127141,
+    "courseTitle": "西附U+思维公益课 数学（一）",
+    "videoUrl": "https://cdn-uyx.eduzhida.com/2024/12/08/f21c7db3-76f5-4b5c-bfdd-4d0175a35fb3.mp4"
+  },
+  {
+    "courseId": 127140,
+    "courseTitle": "西附U+思维公益课 物理（二）",
+    "videoUrl": "https://cdn-uyx.eduzhida.com/2024/12/09/11ed28b3-25ca-4c63-bdb2-2aee3e0ab603.mp4"
+  },
+  {
+    "courseId": 127138,
+    "courseTitle": "西附U+思维公益课 物理（一）",
+    "videoUrl": "https://cdn-uyx.eduzhida.com/2024/12/08/280c31d3-de03-4608-b78b-0f2c1f32fad5.mp4"
+  },
+  {
+    "courseId": 2319,
+    "courseTitle": "西附U+语文公益课程（二）",
+    "videoUrl": "https://cdn-uyx.eduzhida.com/2022/01/21/33a96196-438a-47c0-8648-d1aaf9981dbe.mp4"
+  },
+  {
+    "courseId": 6300,
+    "courseTitle": "西附U+数学公益课程（二）",
+    "videoUrl": "https://cdn-uyx.eduzhida.com/2022/10/28/7bef12c0-6133-4b81-8cca-60ccf7e1fabc.MP4"
+  },
+  {
+    "courseId": 6301,
+    "courseTitle": "西附U+英语公益课程（二）",
+    "videoUrl": "https://cdn-uyx.eduzhida.com/2022/10/28/3ee3f1e9-630c-4c7f-8f60-437cfef959b4.mp4"
+  },
+  {
+    "courseId": 9256,
+    "courseTitle": "西附U+化学公益课程（二）",
+    "videoUrl": "https://cdn-uyx.eduzhida.com/2023/02/23/b879b956-cc34-4e85-bc8c-e4708cd56bf9.mp4"
+  },
+  {
+    "courseId": 9257,
+    "courseTitle": "西附U+物理公益课程（二）",
+    "videoUrl": "https://cdn-uyx.eduzhida.com/2023/02/23/3b298c17-d2bb-4f7b-a92c-58f801c1a11a.mp4"
+  },
+  {
+    "courseId": 6055,
+    "courseTitle": "西附U+数学公益课程（一）",
+    "videoUrl": "https://cdn-uyx.eduzhida.com/2022/10/21/3e9b34ce-fbba-4ac6-8e85-ae35f8915a0f.mp4"
+  },
+  {
+    "courseId": 9022,
+    "courseTitle": "西附U+物理公益课程（一）",
+    "videoUrl": "https://cdn-uyx.eduzhida.com/2023/02/15/ade3f8ac-08d8-4868-8320-41756eb4c5ef.mp4"
+  },
+  {
+    "courseId": 9023,
+    "courseTitle": "西附U+化学公益课程（一）",
+    "videoUrl": "https://cdn-uyx.eduzhida.com/2023/11/12/2714b646-5d16-4181-86f2-f9fad0d13491.mp4"
+  },
+  {
+    "courseId": 2296,
+    "courseTitle": "西附U+语文公益课程（一）",
+    "videoUrl": "https://cdn-uyx.eduzhida.com/2022/01/21/fcf6f9bb-5454-4973-82c5-7be426a54233.mp4"
+  },
+  {
+    "courseId": 6054,
+    "courseTitle": "西附U+英语公益课程（一） ",
+    "videoUrl": "https://cdn-uyx.eduzhida.com/2022/10/21/5f23618a-8977-4206-adb8-ba24cf73d885.mp4"
+  }
+]
